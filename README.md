@@ -4,7 +4,7 @@ A lunch location idea gathering and auto pick app.
 
 
 ## Quick Start
-1. **Clone the Repository**: Run `git clone https://github.com/flin-dev/lunchgowhere-setup.git` to clone the repository.
+1. **Clone the Repository**: Run `git clone --recursive https://github.com/flin-dev/lunchgowhere-setup.git` to clone the repository.
 2. **Navigate to Directory**: Change your current directory with `cd lunchgowhere-setup`.
 3. **Deploy with Docker Compose**: Execute `docker-compose up -d` to start all services in the background.
 4. **Verify Services**: Check the status of the services using `docker ps`.
