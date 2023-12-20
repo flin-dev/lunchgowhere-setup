@@ -1,0 +1,6 @@
+[submodule "lunchgowhere-fe"]
+	path = lunchgowhere-fe
+	url = git@github.com:flin-dev/lunchgowhere-fe.git
+[submodule "lunchgowhere"]
+	path = lunchgowhere
+	url = git@github.com:flin-dev/lunchgowhere.git
