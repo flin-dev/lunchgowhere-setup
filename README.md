@@ -16,6 +16,8 @@ A lunch location idea gathering and auto pick app.
 ## documentation links
 Find detailed documentation on setup, configuration, and usage in the **docs** folder.
 
-[Screenshot]: ./docs/screenshot/README.md
-[Structure]: ./docs/structure/README.md
+[Screenshots](docs/screenshot/README.md)
 
+[Structure Design](docs/structure/README.md)
+
+[Future Enhancement](docs/enchancement/README.md)
