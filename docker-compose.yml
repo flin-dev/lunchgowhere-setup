@@ -40,6 +40,8 @@ services:
 
   lunchgowhere-fe:
     build: ./lunchgowhere-fe
+    stdin_open: true
+    tty: true
     container_name: lunchgowhere-fe
     networks:
       - my_network
